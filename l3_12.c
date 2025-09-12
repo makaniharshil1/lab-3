@@ -6,6 +6,6 @@ int main() {
 
   for (int i = 1; i <= n; i++)
   {
-  printf("henil savaliya\n");
+  printf("harshil makani\n");
   }
 }
